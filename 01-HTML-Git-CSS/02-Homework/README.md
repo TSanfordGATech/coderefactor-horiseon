@@ -1,20 +1,24 @@
- make it more accessible. 
-video captions, screen readers, and braille keyboards. 
+Created By: Tori Sanford 
+Date: 12/11/2020 for submission and final commit 
+Contact: Tori.danielle.clark91@gmail.com 
+Link to deployed Project:
+Screen shot of completed assignment: 
 
-make sure that all links are functioning correctly. 
-ake it more efficient by consolidating CSS selectors and properties,
-organizing them to follow the semantic structure of the HTML elements, 
-and including comments before each element or section of the page.
+About this project:
 
-Main bits from above: 
-1. Clean it up
+This project is homework assignment number one. In this assignment I completed a code refactor. From our initial instructions and guides, I broke my project down into buckets. These are the items I was looking for and/or completing: 
+
+1. Clean it up the code
 2. Ensure it is not dry code
-3. Include the notes, what is it doing?
-4. Ensure people with disabilities can access a website.
+3. Include the notes, what is it doing? HTML and CSS
+4. Ensure people with disabilities can access a website (do audio)
 5. Create a solid read me file including what features you put in for accessibility
 6. Make sure all of the links are functioning correctly 
 7. Consolidate CSS selectors and properties
 8. Include comments before each section or element.
+
+
+This was the original user story I was given: 
 
 
 ## User Story
@@ -40,6 +44,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+## This is how I broke this user story down: 
 ---- broke this down to: 
 Lets Map out the Acceptance Criteria: 
 1.	We are given the site with accessibility standards. In this site we need to ensure ……
@@ -49,7 +54,13 @@ c.	When I view the image elements I find accessible alt attributes. This mean, e
 d.	When I view the heading attributes (HTML) they fall in sequential order. 
 e.	When I view the title element, I find it is a concise and descriptive title. 
 
-```
+Doing this project, I learned the following: 
+1. Slow down when reviewing images. These are sneaky and a small little item can be missing on the end that will not make the image loading fail.
+2. How to conslidate properties.
+3. When and how to commit frequently. 
+
+
+Here was what I was shooting for: 
 
 ## Mock-Up
 
@@ -57,6 +68,8 @@ The following image shows the web application's appearance and functionality:
 
 ![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
 
+
+These are my grading Requirements: 
 
 ## Grading Requirements
 
