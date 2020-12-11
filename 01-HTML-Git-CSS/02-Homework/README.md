@@ -1,22 +1,21 @@
-# 01 HTML CSS Git: Code Refactor
+ make it more accessible. 
+video captions, screen readers, and braille keyboards. 
 
-## Your Task
+make sure that all links are functioning correctly. 
+ake it more efficient by consolidating CSS selectors and properties,
+organizing them to follow the semantic structure of the HTML elements, 
+and including comments before each element or section of the page.
 
-**Note**: Be sure to review the [Homework Guide](../04-Important/Homework-Guide/README.md) and the [Good README Guide](../04-Important/Good-README-Guide/README.md) before you start working on this assignment!
+Main bits from above: 
+1. Clean it up
+2. Ensure it is not dry code
+3. Include the notes, what is it doing?
+4. Ensure people with disabilities can access a website.
+5. Create a solid read me file including what features you put in for accessibility
+6. Make sure all of the links are functioning correctly 
+7. Consolidate CSS selectors and properties
+8. Include comments before each section or element.
 
-This week is an odd-numbered week, so your homework is an on-the-job ticket, which means you'll begin with starter code that you need to modify. This week's homework involves a very important aspect of web development: **accessibility**. 
-
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it (recall that to refactor code is to improve it without changing what it does) to meet a certain set of standards or implement a new technology. In this homework, a marketing agency has hired you to refactor an existing site to make it more accessible. 
-
-Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities cannot access their website.
-
-Even though accessibility is a broad topic that can include complex requirements, your tech lead has given you a small list of specific criteria to satisfy the project. These criteria are documented below in the Acceptance Criteria.
-
-**Important**: An important rule to follow when working with someone else's code is the **Scout Rule**, which recommends that you always leave the code a little cleaner than when you found it.
-
-To impress clients, you should always go the extra mile and improve the codebase for long-term sustainability. For example, make sure that all links are functioning correctly. Also, rework the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
-
-Are you ready to jump in? Here are this week's homework requirements:
 
 ## User Story
 
@@ -40,6 +39,16 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+---- broke this down to: 
+Lets Map out the Acceptance Criteria: 
+1.	We are given the site with accessibility standards. In this site we need to ensure ……
+a.	When I look at the source code that it contains semantic HTML elements (Semantic HTML elements are those that clearly describe their meaning in a human- and machine-readable way. Elements such as <header> , <footer> and <article> are all considered semantic because they accurately describe the purpose of the element and the type of content that is inside them.)
+b.	When I look at the HTML elements I find that they are placed in a logical structure, independent of the styling and positioning. This means, the CSS styling and positioning should be contained on a styles page. 
+c.	When I view the image elements I find accessible alt attributes. This mean, each image has the Alt image telling them what it is. 
+d.	When I view the heading attributes (HTML) they fall in sequential order. 
+e.	When I view the title element, I find it is a concise and descriptive title. 
+
 ```
 
 ## Mock-Up
