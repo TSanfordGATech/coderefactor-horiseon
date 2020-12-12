@@ -64,9 +64,9 @@ Here was what I was shooting for:
 
 ## Mock-Up
 
-The following image shows the web application's appearance and functionality:
+The following image shows the web application's appearance and functionality (this is my screen shot of the final product):
 
-![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
+![code refactor demo](./Assets/finalproduct.png)
 
 
 These are my grading Requirements: 
