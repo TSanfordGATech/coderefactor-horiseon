@@ -66,7 +66,7 @@ Here was what I was shooting for:
 
 The following image shows the web application's appearance and functionality (this is my screen shot of the final product):
 
-![code refactor demo](./Assets/finalproduct.png)
+![code refactor demo](./assets/images/myfinal.png)
 
 
 These are my grading Requirements: 
