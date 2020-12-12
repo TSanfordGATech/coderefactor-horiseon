@@ -1,8 +1,8 @@
 Created By: Tori Sanford 
 Date: 12/11/2020 for submission and final commit 
 Contact: Tori.danielle.clark91@gmail.com 
-Link to deployed Project:
-Screen shot of completed assignment: 
+Link to deployed Project: https://tsanfordgatech.github.io/coderefactor-horiseon/
+Screen shot of completed assignment: ![Final Screen shot](./assets/images/myfinal.png)
 
 About this project:
 
